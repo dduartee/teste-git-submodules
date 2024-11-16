@@ -1,0 +1,3 @@
+[submodule "aedes-broker-iot"]
+	path = aedes-broker-iot
+	url = https://github.com/dduartee/aedes-broker-iot.git
